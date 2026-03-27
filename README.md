@@ -171,14 +171,10 @@ Each run produces a self-contained directory:
 
 MIT License - Feel free to use and modify for your projects.
 
-## Citation
+## Contributing
 
-If you use this work, please cite:
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-```
-@article{yang2026intelligent,
-  title={...},
-  author={Yang, Xinyu and ...},
-  year={2026}
-}
-```
+## Author
+
+Dr. Xinyu Yang from A*STAR IHPC (yang_xinyu@a-star.edu.sg)
