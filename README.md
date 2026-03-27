@@ -169,7 +169,7 @@ Each run produces a self-contained directory:
 
 ## License
 
-TBD
+MIT License - Feel free to use and modify for your projects.
 
 ## Citation
 
