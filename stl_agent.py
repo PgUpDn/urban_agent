@@ -8,8 +8,8 @@ from typing import Dict, Any, List, Optional, TYPE_CHECKING
 from dataclasses import dataclass
 from langgraph.graph import StateGraph, END
 from langchain_openai import ChatOpenAI
-from langchain.schema import BaseMessage, HumanMessage, SystemMessage
-from langchain.schema.runnable.config import RunnableConfig
+from langchain_core.messages import BaseMessage, HumanMessage, SystemMessage
+from langchain_core.runnables import RunnableConfig
 import trimesh
 import matplotlib.pyplot as plt
 from matplotlib.collections import PolyCollection
